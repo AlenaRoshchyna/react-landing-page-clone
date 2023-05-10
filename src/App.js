@@ -8,7 +8,7 @@ export default function App() {
           <span>kjdfglkjsfdl</span>
         </div>
       </header>
-      <main>dfbgdr</main>
+      <main className={styles.main}>dfbgdr</main>
       <footer>rdgbdf</footer>
     </>
   );
