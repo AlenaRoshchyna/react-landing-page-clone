@@ -1,7 +1,25 @@
-.head {
-  color: red;
+* {
+  text-decoration: none;
 }
 
-.main {
-  color: red;
+.navigationBar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  background-color: #fff;
+
+  a {
+    color: black;
+
+    span {
+      font-family: 'Nunito Sans', sans-serif;
+      font-weight: 700;
+
+      span {
+        font-family: 'Nunito Sans', sans-serif;
+        font-weight: 500;
+      }
+    }
+  }
 }
