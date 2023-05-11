@@ -34,7 +34,10 @@ export default function App() {
         </nav>
       </header>
       <main>
-        <img></img>
+        <img
+          src="https://www.startupstofund.com/assets/stf/main/logos/logos_wall.sm.blurred-38c7d752f231b6e1533325b125d8430ea4e07bddbb5287f2fbd5991feb16e113.jpg"
+          alt="sponsors"
+        />
       </main>
       <footer></footer>
     </>
